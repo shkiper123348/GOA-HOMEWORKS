@@ -1,0 +1,120 @@
+# 1 
+
+city1 = "Berlin"
+city2 = "Zigdidi"
+city3 = "New york"
+
+print (city1)
+print (city2)
+print (city3)
+
+
+# 2
+
+Name = ("Alex")
+Surname = ("Chitanava")
+
+print (Name + " " + Surname)
+
+
+# 3
+
+Number1 = 20
+Number2 = 2
+
+print (Number1 + Number2) # ჯამი
+print (Number1 * Number2) # ნამრავლი
+print (Number1 / Number2) # განაყოფი
+
+
+# 4
+
+Number1 = 30
+Number2 = Number1
+
+print (Number1)
+print (Number2)
+
+# 5
+
+color = input ()
+
+print ("my favourite color is green")
+
+# 6
+
+Number1 = 10
+Number2 = "22"
+Number3 = 5.50
+
+print (type (Number1))
+print (type (Number2))
+print (type (Number3))
+
+# 7
+
+Number1 = int(10.50)
+
+print (Number1)
+
+# 8 
+
+Number1 = "230"
+
+print (type (Number1))
+
+# 9
+
+Nem1 = 30
+Nem2 = 2
+
+print (Nem1 + Nem2)
+print (Nem1 * Nem2)
+print (Nem1 / Nem2)
+print (Nem1 - Nem2)
+
+# 10
+
+Name = "Alex"
+Surname = "Chitanava"
+
+print (Name + Surname)
+
+# 11
+
+Number1 = 22
+Number2 = 19
+
+print (Number1 < Number2)
+print (Number1 > Number2)
+print (Number1 <= Number2)
+print (Number1 >= Number2)
+print (Number1 == Number2)
+print (Number1 != Number2)
+
+# 12 
+
+age1 = 13
+age2 = 19
+
+print (age1 > age2)
+print (age1 < age2)
+print (age1 != age2)
+print (age1 == age2)
+
+# 13
+
+Number1 = 14
+Number2 = 28
+Number3 = 24
+
+print (Number1 < Number2)
+print (Number1 > Number2)
+
+# 14
+
+Word1 = "Dark" == "Light"
+Word2 = "Light" != "Dark"
+
+print (Word1)
+print (Word2)

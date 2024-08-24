@@ -1,0 +1,29 @@
+# 1
+
+Hour = 12
+
+if Hour > 12:
+    print ("Good morning")
+
+else:
+    print ("Good night")
+
+# 2
+
+Temperature = 30
+
+if Temperature >= 30:
+    print ("Its hot outside")
+
+else:
+    print ("Its not too hot")
+
+# 3
+
+Age = 19
+
+if Age >= 19:
+    print ("You are a teenager!")
+
+else:
+    print ("You are not a teenager")
